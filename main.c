@@ -1,4 +1,5 @@
 #include <std.lib>
+#include <stdio.lib>
 
 void main()
 {
